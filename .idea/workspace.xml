@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8b20d5-8901-4ca3-9362-be178650a7f1" name="Changes" comment="java initial setup">
+    <list default="true" id="2c8b20d5-8901-4ca3-9362-be178650a7f1" name="Changes" comment="DataTypes commit">
+      <change afterPath="$PROJECT_DIR$/src/VariableTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
     "Application.DataTypes.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.VariableTypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -71,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724310784523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DataTypes commit">
+      <option name="closed" value="true" />
+      <created>1724314723406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724314723407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java initial setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="java initial setup" />
+    <MESSAGE value="DataTypes commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataTypes commit" />
   </component>
 </project>
