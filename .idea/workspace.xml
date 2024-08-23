@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8b20d5-8901-4ca3-9362-be178650a7f1" name="Changes" comment="Some Print Statements Commit">
-      <change afterPath="$PROJECT_DIR$/src/StringOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-    </list>
+    <list default="true" id="2c8b20d5-8901-4ca3-9362-be178650a7f1" name="Changes" comment="Operators Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,20 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ClassLoading.executor": "Run",
-    "Application.DataTypes.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.StringOperations.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.VariableTypes.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ClassLoading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableTypes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724398503561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ConcatenateOperations Commit">
+      <option name="closed" value="true" />
+      <created>1724399431388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724399431388</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Operators Commit">
+      <option name="closed" value="true" />
+      <created>1724401611352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724401611352</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +135,8 @@
     <MESSAGE value="DataTypes commit" />
     <MESSAGE value="VariableTypes commit" />
     <MESSAGE value="Some Print Statements Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some Print Statements Commit" />
+    <MESSAGE value="ConcatenateOperations Commit" />
+    <MESSAGE value="Operators Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators Commit" />
   </component>
 </project>
