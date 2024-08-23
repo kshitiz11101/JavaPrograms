@@ -18,7 +18,7 @@ public class Practice {
 //        System.out.println(10>Integer.NaN);  // java: cannot find symbol symbol:   variable NaN location: class java.lang.Integer
         System.out.println(10==Float.NaN);  // false
         System.out.println(Float.NaN==Float.NaN); // false
-        System.out.println(Integer.NaN==Float.NaN);  // java: cannot find symbol symbol:   variable NaN location: class java.lang.Integer
+//        System.out.println(Integer.NaN==Float.NaN);  // java: cannot find symbol symbol:   variable NaN location: class java.lang.Integer
 
 
 
